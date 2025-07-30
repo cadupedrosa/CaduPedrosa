@@ -42,7 +42,7 @@ Site institucional completo desenvolvido do zero. Fui responsável por:
 
 ## 🧰 Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" />
@@ -57,23 +57,14 @@ Site institucional completo desenvolvido do zero. Fui responsável por:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadupedrosa&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadupedrosa&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-pedrosa-roriz-216653365" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/repcode__" target="_blank">
-    <img src="https://img.shields.io/badge/@RepCode-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/@repcode__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
