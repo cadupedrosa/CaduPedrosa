@@ -1,29 +1,40 @@
 # Carlos Eduardo Roriz
 
-**Desenvolvedor Full Stack | Foco em PHP, MySQL e Sistemas Web**
+**Desenvolvedor Full Stack | PHP, JavaScript, WordPress, Java | Sistemas Web Sob Medida**
 
-👋 Olá! Sou o Carlos, desenvolvedor com forte atuação em soluções web completas, combinando backend em PHP com front-end moderno. Tenho experiência criando desde sistemas administrativos personalizados até landing pages otimizadas para conversão.
+👋 Olá! Sou o Carlos, desenvolvedor full stack com foco em soluções web práticas e completas — do backend robusto ao front-end responsivo. Trabalho com projetos próprios, freelas e manutenção de plataformas em produção.
 
-📍 Localização: Brasil  
-💼 Tech stack: PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap, jQuery  
-📲 Também trabalho com: WordPress, MVC, AJAX, integração com APIs (como Bitrix24), automações e sistemas de gestão (SST, RH, Benefícios)
+📍 Local: Brasil  
+💼 Tecnologias principais: PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap  
+🔄 Outras stacks: Java (JSP/Servlets), WordPress, AJAX, APIs, integração com CRMs, automações
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 🔧 **Sistema de Cadastro de Parceiros**  
-  App web estilo clássico SCP, feito com Java + JSP + Servlets + JDBC puro.  
-  ↳ *Simples, funcional e inspirado no visual retrô dos sistemas originais do SCP.*
+### 🔹 [Up Mais Benefícios](https://www.upmaisbeneficios.com.br)
+Desenvolvimento full stack do site institucional completo:
+- **Landing Page** ([hot-page](https://www.upmaisbeneficios.com.br/hot-page)) otimizada para conversão
+- Página de **cadastro** de leads ([/cadastro](https://www.upmaisbeneficios.com.br/cadastro))
+- Integração com back-end e layouts responsivos
+- Criado do zero, sem templates prontos
 
-- 🧰 **Sistemas Administrativos Personalizados**  
-  Vários módulos com controle de acesso, cadastro, formulários inteligentes, busca dinâmica e edição de registros.
+### 🔹 Up Assistência Familiar
+- Manutenção e melhorias contínuas do site em **WordPress**
+- Criação de sistemas internos para:
+  - Exportar dados em **planilhas (.xls/.csv)**
+  - Importar e ler arquivos CSV
+  - Relatórios e dashboards administrativos
 
-- 🌐 **Landing Pages Profissionais**  
-  Alta performance e integração com CRMs. Formulários multi-etapas tipo Typeform com agendamento e coleta de leads.
+### 🔹 Sistema de Cadastro de Parceiros – Projeto SCP
+- Aplicação web com visual retrô
+- Desenvolvido em Java (JSP/Servlets) com JDBC puro
+- Estrutura simples e funcional para ambientes restritos
 
-- 🎨 **@RepCode (Instagram Tech + Portfólio)**  
-  Conteúdo sobre desenvolvimento, vida tech e showcases dos meus projetos.
+### 🔹 Sistemas administrativos personalizados
+- Módulos de cadastro com formulários dinâmicos
+- Busca, edição, filtros, controle de acesso
+- Integração com APIs externas (ex: Bitrix24)
 
 ---
 
@@ -38,13 +49,14 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📬 Vamos conversar?
+## 📬 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
-- 💻 [Instagram @RepCode](https://instagram.com/repcode)
+- 📷 [Instagram @RepCode](https://instagram.com/repcode)
 - ✉️ Email: seuemail@dominio.com
 
-> "Não é sobre o código mais bonito, é sobre resolver o problema da forma mais inteligente." 🚀
+> “Código bom é aquele que funciona bem, resolve o problema e ainda te deixa orgulhoso.” 🚀
