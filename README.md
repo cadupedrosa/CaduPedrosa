@@ -40,8 +40,6 @@ Site institucional completo desenvolvido do zero. Fui responsável por:
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
@@ -57,8 +55,6 @@ Site institucional completo desenvolvido do zero. Fui responsável por:
 
 ---
 
-## 🌐 Conecte-se comigo
-
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-pedrosa-roriz-216653365" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -69,5 +65,6 @@ Site institucional completo desenvolvido do zero. Fui responsável por:
 </p>
 
 ---
-
+<p align="center">
 > "Cada linha de código carrega uma pergunta oculta e uma resposta a ser revelada"
+</p>
