@@ -1,62 +1,82 @@
-# Carlos Eduardo Roriz
-
-**Desenvolvedor Full Stack | PHP, JavaScript, WordPress, Java | Sistemas Web Sob Medida**
-
-👋 Olá! Sou o Carlos, desenvolvedor full stack com foco em soluções web práticas e completas — do backend robusto ao front-end responsivo. Trabalho com projetos próprios, freelas e manutenção de plataformas em produção.
-
-📍 Local: Brasil  
-💼 Tecnologias principais: PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap  
-🔄 Outras stacks: Java (JSP/Servlets), WordPress, AJAX, APIs, integração com CRMs, automações
+<h1 align="center">Carlos Eduardo Roriz</h1>
+<h3 align="center">Desenvolvedor Full Stack | PHP, JavaScript, WordPress, Java</h3>
 
 ---
 
-## 🚀 Projetos em destaque
+## 👨‍💻 Sobre mim
 
-### 🔹 [Up Mais Benefícios](https://www.upmaisbeneficios.com.br)
-Desenvolvimento full stack do site institucional completo:
-- **Landing Page** ([hot-page](https://www.upmaisbeneficios.com.br/hot-page)) otimizada para conversão
-- Página de **cadastro** de leads ([/cadastro](https://www.upmaisbeneficios.com.br/cadastro))
-- Integração com back-end e layouts responsivos
-- Criado do zero, sem templates prontos
+Olá! Sou o Carlos, desenvolvedor full stack focado em soluções web completas — do backend funcional ao front responsivo e intuitivo.
 
-### 🔹 Up Assistência Familiar
-- Manutenção e melhorias contínuas do site em **WordPress**
-- Criação de sistemas internos para:
-  - Exportar dados em **planilhas (.xls/.csv)**
-  - Importar e ler arquivos CSV
-  - Relatórios e dashboards administrativos
+Atuo no desenvolvimento de sistemas administrativos, landing pages de alta performance, integrações com APIs, manutenção de sites WordPress e soluções personalizadas para empresas. Crio sistemas com leitura e exportação de arquivos, lógica robusta e visual limpo.
 
-### 🔹 Sistema de Cadastro de Parceiros – Projeto SCP
-- Aplicação web com visual retrô
-- Desenvolvido em Java (JSP/Servlets) com JDBC puro
-- Estrutura simples e funcional para ambientes restritos
-
-### 🔹 Sistemas administrativos personalizados
-- Módulos de cadastro com formulários dinâmicos
-- Busca, edição, filtros, controle de acesso
-- Integração com APIs externas (ex: Bitrix24)
+🔧 Stack principal: PHP, MySQL, JavaScript, HTML5, CSS3  
+📍 Localização: Brasil  
+🛠️ Outras ferramentas: WordPress, Bootstrap, jQuery, Java (JSP/Servlets), Bitrix24 API, Git
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 🚀 Principais Projetos
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🔹 **[Up Mais Benefícios](https://www.upmaisbeneficios.com.br)**  
+Site institucional completo desenvolvido do zero. Fui responsável por:
+- 🔧 Desenvolvimento **full stack**
+- ✨ Criação da [Landing Page](https://www.upmaisbeneficios.com.br/cadastro)
+- 📨 Página de [Hot Page](https://www.upmaisbeneficios.com.br/hot-page)
+- 📱 Layout responsivo e otimizado para conversão
+- Desenvolvimento de sistemas internos para:
+  - 📤 Exportar dados para planilhas (.xls/.csv)
+  - 📥 Ler e interpretar arquivos CSV
+  - 🔍 Realizar buscas e relatórios dinâmicos
+
+🔹 **Up Assistência Familiar**  
+- Manutenção e customização do site em WordPress
+
+  
+
+🔹 **[@RepCode – Conteúdo Tech & Portfólio](https://instagram.com/repcode)**  
+- Marca pessoal voltada para desenvolvimento, estilo de vida dev e showcases
+- Divulgação de projetos, códigos, sites e sistemas desenvolvidos
+- Identidade visual tech e minimalista com foco profissional
 
 ---
 
-## 📬 Conecte-se comigo
+## 🧰 Tecnologias e Ferramentas
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
-- 📷 [Instagram @RepCode](https://instagram.com/repcode)
-- ✉️ Email: seuemail@dominio.com
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress" />
+</p>
 
-> “Código bom é aquele que funciona bem, resolve o problema e ainda te deixa orgulhoso.” 🚀
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadupedrosa&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadupedrosa&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-pedrosa-roriz-216653365" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/repcode__" target="_blank">
+    <img src="https://img.shields.io/badge/@RepCode-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> "Cada linha de código carrega uma pergunta oculta e uma resposta a ser revelada"
