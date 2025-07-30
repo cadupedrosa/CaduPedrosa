@@ -9,9 +9,9 @@ Olá! Sou o Carlos, desenvolvedor full stack focado em soluções web completas 
 
 Atuo no desenvolvimento de sistemas administrativos, landing pages de alta performance, integrações com APIs, manutenção de sites WordPress e soluções personalizadas para empresas. Crio sistemas com leitura e exportação de arquivos, lógica robusta e visual limpo.
 
-🔧 Stack principal: PHP, MySQL, JavaScript, HTML5, CSS3  
-📍 Localização: Brasil  
-🛠️ Outras ferramentas: WordPress, Bootstrap, jQuery, Java (JSP/Servlets), Bitrix24 API, Git
+  Stack principal: PHP, MySQL, JavaScript, HTML5, CSS3  
+  Localização: Brasil  
+  Outras ferramentas: WordPress, Bootstrap, jQuery, Java (JSP/Servlets), Bitrix24 API, Git
 
 ---
 
@@ -19,14 +19,14 @@ Atuo no desenvolvimento de sistemas administrativos, landing pages de alta perfo
 
 🔹 **[Up Mais Benefícios](https://www.upmaisbeneficios.com.br)**  
 Site institucional completo desenvolvido do zero. Fui responsável por:
-- 🔧 Desenvolvimento **full stack**
-- ✨ Criação da [Landing Page](https://www.upmaisbeneficios.com.br/cadastro)
-- 📨 Página de [Hot Page](https://www.upmaisbeneficios.com.br/hot-page)
-- 📱 Layout responsivo e otimizado para conversão
+-  Desenvolvimento **full stack**
+-  Criação da [Landing Page](https://www.upmaisbeneficios.com.br/cadastro)
+-  Página de [Hot Page](https://www.upmaisbeneficios.com.br/hot-page)
+-  Layout responsivo e otimizado para conversão
 - Desenvolvimento de sistemas internos para:
-  - 📤 Exportar dados para planilhas (.xls/.csv)
-  - 📥 Ler e interpretar arquivos CSV
-  - 🔍 Realizar buscas e relatórios dinâmicos
+  - Exportar dados para planilhas (.xls/.csv)
+  - Ler e interpretar arquivos CSV
+  - Realizar buscas e relatórios dinâmicos
 
 🔹 **Up Assistência Familiar**  
 - Manutenção e customização do site em WordPress
@@ -66,5 +66,5 @@ Site institucional completo desenvolvido do zero. Fui responsável por:
 
 ---
 <p align="center">
-> "Cada linha de código carrega uma pergunta oculta e uma resposta a ser revelada"
+ "Cada linha de código carrega uma pergunta oculta e uma resposta a ser revelada"
 </p>
