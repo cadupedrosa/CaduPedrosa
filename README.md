@@ -42,7 +42,7 @@ WordPress • Bitrix24 API • Git • REST APIs
 
 ---
 
-## 🌍 Open to Remote Opportunities
+## Open to Remote Opportunities
 
 Based in Brazil and open to international remote work.
 
