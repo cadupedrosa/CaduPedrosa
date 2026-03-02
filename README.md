@@ -48,4 +48,4 @@ Based in Brazil and open to international remote work.
 
 ---
 
-> "Every line of code hides a question — and a solution waiting to be built."
+> "Every line of code hides a question and a solution waiting to be built."
