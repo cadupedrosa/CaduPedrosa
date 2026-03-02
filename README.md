@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | SaaS & Business Systems Builder
 
-I design and develop complete web solutions — from structured backend architecture to responsive, conversion-focused frontend interfaces.
+I design and develop complete web solutions from structured backend architecture to responsive, conversion-focused frontend interfaces.
 
 My work focuses on building scalable business systems, administrative platforms, and custom web applications that solve real operational challenges.
 
