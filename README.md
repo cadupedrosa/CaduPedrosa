@@ -1,43 +1,43 @@
-#  Hi, I'm Carlos Eduardo Pedrosa Roriz
+# Hi, I'm Carlos Eduardo Pedrosa Roriz
 
 ## Full Stack Developer | SaaS & Business Systems Builder
 
-I build complete web solutions from structured backend architecture to responsive, conversion-focused frontend interfaces.
+I design and develop complete web solutions — from structured backend architecture to responsive, conversion-focused frontend interfaces.
 
-My focus is creating scalable business systems, administrative platforms, landing pages, and custom solutions that solve real operational problems.
+My work focuses on building scalable business systems, administrative platforms, and custom web applications that solve real operational challenges.
 
 ---
 
-##  What I Do
+## What I Do
 
-- Develop administrative and management systems
-- Build SaaS-oriented architectures
-- Create high-performance landing pages
-- Implement API integrations
-- Handle CSV import/export and data processing
-- Customize and maintain WordPress environments
-- Structure clean MVC-based applications
+- Develop administrative and management systems  
+- Build SaaS-oriented architectures  
+- Create high-performance landing pages  
+- Implement REST API integrations  
+- Handle CSV import/export and structured data processing  
+- Customize and maintain WordPress environments  
+- Structure clean and scalable MVC-based applications  
 
 ---
 
 ## Tech Stack
 
-**Backend:**  
+### Backend  
 PHP • MySQL • Java (JSP/Servlets)
 
-**Frontend:**  
+### Frontend  
 JavaScript • HTML5 • CSS3 • Bootstrap • jQuery
 
-**Tools & Integrations:**  
+### Tools & Integrations  
 WordPress • Bitrix24 API • Git • REST APIs
 
 ---
 
-##  Professional Highlights
+## Professional Highlights
 
-- Full Stack Developer for institutional and commercial websites  
+- Full Stack Developer for institutional and commercial web projects  
 - Built internal systems for data export (.CSV/.XLS) and dynamic reporting  
-- Developed responsive landing pages optimized for conversion  
+- Developed responsive landing pages optimized for performance and conversion  
 - Experience structuring MVC-based applications from scratch  
 
 ---
@@ -48,4 +48,4 @@ Based in Brazil and open to international remote work.
 
 ---
 
-> "Every line of code hides a question and a solution waiting to be built."
+> "Every line of code hides a question — and a solution waiting to be built."
