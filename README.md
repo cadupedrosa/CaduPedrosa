@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Carlos Eduardo Pedrosa Roriz
+#  Hi, I'm Carlos Eduardo Pedrosa Roriz
 
 ## Full Stack Developer | SaaS & Business Systems Builder
 
-I build complete web solutions — from structured backend architecture to responsive, conversion-focused frontend interfaces.
+I build complete web solutions from structured backend architecture to responsive, conversion-focused frontend interfaces.
 
 My focus is creating scalable business systems, administrative platforms, landing pages, and custom solutions that solve real operational problems.
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - Develop administrative and management systems
 - Build SaaS-oriented architectures
@@ -20,7 +20,7 @@ My focus is creating scalable business systems, administrative platforms, landin
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend:**  
 PHP • MySQL • Java (JSP/Servlets)
@@ -33,7 +33,7 @@ WordPress • Bitrix24 API • Git • REST APIs
 
 ---
 
-## 📌 Professional Highlights
+##  Professional Highlights
 
 - Full Stack Developer for institutional and commercial websites  
 - Built internal systems for data export (.CSV/.XLS) and dynamic reporting  
